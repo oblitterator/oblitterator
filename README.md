@@ -1,4 +1,4 @@
-### Hola!! Soy Juan 👋
+### 42
 
 <!--
 **oblitterator/oblitterator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
